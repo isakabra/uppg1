@@ -4,6 +4,7 @@ public class Main
         System.out.println("Booosh!");
         //hejsan
 
-        // hej hå 
+        int bög 123;
+
     }
 }
