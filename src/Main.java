@@ -6,7 +6,7 @@ public class Main
         System.out.println("Booosh!");
         //hejsan
 
-        int bög 123;
+
 
     }    public static void backMassage()
     {
