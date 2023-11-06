@@ -7,6 +7,6 @@ public class Main
     }
     public static void backMassage()
     {
-        System.out.println("so skon massage");
+        System.out.println("so skon landryggsmassage");
     }
 }
