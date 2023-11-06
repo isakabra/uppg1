@@ -1,10 +1,15 @@
 public class Main
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
+        System.out.println("Cheeky chinese");
         System.out.println("Booosh!");
         //hejsan
 
 
 
+    }    public static void backMassage()
+    {
+        System.out.println("so skon landryggsmassage");
     }
 }
