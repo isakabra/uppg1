@@ -4,8 +4,11 @@ public class Main
     {
         System.out.println("Cheeky chinese");
         System.out.println("Booosh!");
-    }
-    public static void backMassage()
+        //hejsan
+
+        int bög 123;
+
+    }    public static void backMassage()
     {
         System.out.println("so skon landryggsmassage");
     }
