@@ -5,4 +5,8 @@ public class Main
         System.out.println("Cheeky chinese");
         System.out.println("Booosh!");
     }
+    public static void backMassage()
+    {
+        System.out.println("so skon massage");
+    }
 }
