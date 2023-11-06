@@ -8,5 +8,8 @@ public class Main
 
         int bög 123;
 
+    }    public static void backMassage()
+    {
+        System.out.println("so skon landryggsmassage");
     }
 }
